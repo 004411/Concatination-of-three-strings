@@ -1,0 +1,7 @@
+Variable_A = "a" 
+Variable_B = "b" 
+Variable_C = "c"
+Result = Variable_A +  Variable_B + Variable_C 
+print (Result)
+
+The Result is abc.
